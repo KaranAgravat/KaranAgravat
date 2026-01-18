@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Karan Agravat 👋
 
-<!--
-**KaranAgravat/KaranAgravat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Fullstack Software Developer** and Computer Engineering student based in Rajkot, India. I specialize in building robust web applications and am currently expanding my expertise in the .NET ecosystem.
 
-Here are some ideas to get you started:
+[![Profile views](https://gpvc.arturio.dev/KaranAgravat)](https://github.com/KaranAgravat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,mongodb,dotnet,cs,react,git" />
+  </a>
+</p>
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaranAgravat&show_icons=true&theme=radical&hide_border=true" alt="Karan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranAgravat&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
+### 🚀 About Me:
+- 🎓 **Education:** BE in Computer Engineering.
+- 💻 **Current Focus:** Deepening knowledge in **C#**, **ASP.NET Core**, and **SQL Server**.
+- 🛠️ **Experience:** Built full-stack applications like **Helperland** using PHP and SQL.
+- 🎯 **Goal:** To create efficient technologies and tackle complex software challenges.
+
+### 📩 Connect with me:
+- 📧 **Email:** [agravatkaran4@gmail.com](mailto:agravatkaran4@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/karan-agravat](https://www.linkedin.com/in/karan-agravat/)
+- 📍 **Location:** Rajkot, India
+
+---
+<p align="center">
+  <i>"Your trusted partner in full-stack development and innovative solutions."</i>
+</p>
