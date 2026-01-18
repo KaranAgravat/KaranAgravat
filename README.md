@@ -2,8 +2,6 @@
 
 A passionate **Fullstack Software Developer** and Computer Engineering student based in Rajkot, India. I specialize in building robust web applications and am currently expanding my expertise in the .NET ecosystem.
 
-[![Profile views](https://gpvc.arturio.dev/KaranAgravat)](https://github.com/KaranAgravat)
-
 ### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
