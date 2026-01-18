@@ -5,7 +5,7 @@ A passionate **Fullstack Software Developer** and Computer Engineering student b
 ### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,mysql,html,css,js,bootstrap,php,mongodb,react,git" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,mysql,php,html,css,js,bootstrap,mongodb,react,git" />
   </a>
 </p>
 
@@ -18,14 +18,15 @@ A passionate **Fullstack Software Developer** and Computer Engineering student b
 ---
 
 ### 🚀 About Me:
-- 🎓 **Education:** BE in Computer Engineering.
+- 🎓 **Education:** BE Computer Engineering.
 - 💻 **Current Focus:** Deepening knowledge in **C#**, **ASP.NET Core**, and **SQL Server**.
 - 🛠️ **Experience:** Built full-stack applications like **Helperland** using PHP and SQL.
 - 🎯 **Goal:** To create efficient technologies and tackle complex software challenges.
 
+
 ### 📩 Connect with me:
 - 📧 **Email:** [agravatkaran4@gmail.com](mailto:agravatkaran4@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/karan-agravat](https://www.linkedin.com/in/karan-agravat/)
+- 💼 **LinkedIn:** [Karan Agravat](https://www.linkedin.com/in/karan-agravat/)
 - 📍 **Location:** Rajkot, India
 
 ---
