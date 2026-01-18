@@ -1,11 +1,11 @@
-# Hi, I'm Karan Agravat 👋
+# Hi, I'm Karan Agravat 
 
 A passionate **Fullstack Software Developer** and Computer Engineering student based in Rajkot, India. I specialize in building robust web applications and am currently expanding my expertise in the .NET ecosystem.
 
 ### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,html,css,js,bootstrap,php,mysql,mongodb,react,git" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,mysql,html,css,js,bootstrap,php,mongodb,react,git" />
   </a>
 </p>
 
