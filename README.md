@@ -5,7 +5,7 @@ A passionate **Fullstack Software Developer** and Computer Engineering student b
 ### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,mongodb,dotnet,cs,react,git" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,html,css,js,bootstrap,php,mysql,mongodb,react,git" />
   </a>
 </p>
 
