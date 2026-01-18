@@ -25,7 +25,7 @@ A passionate **Fullstack Software Developer** and Computer Engineering student b
 
 ### 📩 Connect with me:
 - 📧 **Email:** [agravatkaran4@gmail.com](mailto:agravatkaran4@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/karan-agravat](https://www.linkedin.com/in/karan-agravat/)
+- 💼 **LinkedIn:** [Karan Agravat](https://www.linkedin.com/in/karan-agravat/)
 - 📍 **Location:** Rajkot, India
 
 ---
